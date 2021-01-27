@@ -14,4 +14,6 @@ Backend Developer Of Pondok Programmer
  3. <img src="https://github.com/NurulH123.png" width="20px"> Nurul Hidayat [@NurulH123](https://github.com/NurulH123) 
  
 ## Backend 08/2020
- 1. ...
+ 1. <img src="https://github.com/Nurihsan76.png" width="20px"> Nur Ihsan [@Nurihsan76](https://github.com/Nurihsan76)
+ 2. <img src="https://github.com/RijlanM10.png" width="20px"> Rijlan Nurfatoni [@RijlanM10](https://github.com/RijlanM10)
+ 3. <img src="https://github.com/Teddir.png" width="20px"> Teddi Rahman [@Teddir](https://github.com/Teddir)
